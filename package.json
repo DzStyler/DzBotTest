@@ -1,0 +1,25 @@
+{
+  "name": "dzbottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzStyler/DzBotTest.git"
+  },
+  "author": "DzStyler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DzStyler/DzBotTest/issues"
+  },
+  "homepage": "https://github.com/DzStyler/DzBotTest#readme"
+}
